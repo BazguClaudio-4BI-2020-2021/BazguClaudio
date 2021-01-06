@@ -1,1 +1,8 @@
+site_name: Bazgu_Claudio
 
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.txt'
+theme:
+  name: readthedocs
